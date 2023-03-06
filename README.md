@@ -1,4 +1,4 @@
-# Testing Microservices Demo Project [![Twitter](https://img.shields.io/twitter/follow/piotr_minkowski.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/piotr_minkowski)
+# Unit Testing, Integration Testing, End-to-End Testing Microservices Demo Project [![Twitter](https://img.shields.io/twitter/follow/piotr_minkowski.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/piotr_minkowski)
 
 In this project I'm demonstrating you the most interesting tools and frameworks designed for testing Java microservices with Spring Boot Test. These tools are: [Hoverfly](https://hoverfly.io/), [Pact](https://docs.pact.io/), [Gatling](https://gatling.io/)
 
